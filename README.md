@@ -4,7 +4,7 @@ I'm a computer science undergraduate at UBC.
 
 I love working with data. Taking dirty data and extracting insights from it through analysis, visualizations, and machine learning is incredibly satisfying.
 
-I usually use Python for my work, but I also have a working knowledge of SQL, R, and Java. 
+I usually use Python for my work, but I also have a working knowledge of R, Java, and SQL.
 
 My GitHub profile is still very much a work in progress! However, I wrote some brief documentation for a recent project here: [NHL Playoff Predictor](https://github.com/ricd99/NHL_Playoff_Predictor)
 
