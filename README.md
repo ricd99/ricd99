@@ -14,7 +14,7 @@ My GitHub profile is still very much a work in progress! However, here are some 
 When I'm not coding, I'm:
 - learning to play a song I've recently been listening to on piano
 - eating good asian food (jbbq, kbbq, sichuan, taiwanese...)
-- watching the Canucks (times have been better...)
+- watching the Canucks (times have been better)
 
 <!--
 **ricd99/ricd99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
