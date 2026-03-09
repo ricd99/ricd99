@@ -8,6 +8,11 @@ I usually use Python for my work, but I also have a working knowledge of SQL, R,
 
 My GitHub profile is still very much a work in progress! However, I wrote some brief documentation for a recent project here: [NHL Playoff Predictor](https://github.com/ricd99/NHL_Playoff_Predictor)
 
+When I'm not coding, I'm:
+- learning to play a song I've recently been listening to on piano
+- eating good asian food (jbbq, kbbq, sichuan, taiwanese...)
+- watching the Canucks (😬)
+
 <!--
 **ricd99/ricd99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
