@@ -8,8 +8,8 @@ I usually use Python for my work, but I also have a working knowledge of R, Java
 
 My GitHub profile is still very much a work in progress! However, here are some repositories you can check out:
 - I wrote some brief documentation for a recent project here: [NHL Playoff Predictor](https://github.com/ricd99/NHL_Playoff_Predictor).
-- I found data and developed a model that predicts disease outbreak areas here (my work is in the ml folder): [Regional Outbreak Predictor](https://github.com/dave22r/RegionalOutbreakPredictor)
-- I'm currently working on a web app that finds the perfect YouTube channels for you when you're eating solo here (minimal documentation, I will add more soon!): [channels for when you're eating solo](https://github.com/ricd99/ytrec)
+- I found data and developed a model that predicts disease outbreak areas here (my main work is in the ml folder): [Regional Outbreak Predictor](https://github.com/dave22r/RegionalOutbreakPredictor)
+- I'm currently working on a web app that finds the best YouTube channels for you when you're eating solo here (minimal documentation, I will add more soon!): [channels for when you're eating solo](https://github.com/ricd99/ytrec)
 
 When I'm not coding, I'm:
 - learning to play a song I've recently been listening to on piano
