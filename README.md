@@ -1,6 +1,6 @@
 ## Hello! I'm Ryan.
 
-I'm a computer science undergraduate at UBC. 
+I study computer science and data science at UBC. 
 
 I love working with data. Taking dirty data and extracting insights from it through analysis, visualizations, and machine learning is incredibly satisfying.
 
