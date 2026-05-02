@@ -6,9 +6,9 @@ I love working with data. Taking dirty data and extracting insights from it thro
 
 I usually use Python, but I also have a working knowledge of R, Java, and SQL.
 
-My GitHub profile is still very much a work in progress! However, here are some repositories you can check out:
+My GitHub profile is constantly changing! Here is the current list of repositories I'm proud of
+- I just deployed the first version of a web app that finds YouTube channels for you when you're eating solo (minimal documentation, I will add more soon!): [videos while you eat](https://github.com/ricd99/ytrec)
 - I wrote some brief documentation for a recent project here: [NHL Playoff Predictor](https://github.com/ricd99/NHL_Playoff_Predictor).
-- I'm currently working on a web app that finds the best YouTube channels for you when you're eating solo here (minimal documentation, I will add more soon!): [channels for when you're eating solo](https://github.com/ricd99/ytrec)
 - I created a dataset and developed a model that predicts disease outbreak areas here (my main work is in the ml folder): [Regional Outbreak Predictor](https://github.com/dave22r/RegionalOutbreakPredictor)
   
 When I'm not coding, I'm:
