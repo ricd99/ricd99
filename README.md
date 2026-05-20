@@ -2,7 +2,7 @@
 
 I study computer science and data science at UBC. 
 
-I love working with data. Taking dirty data and pulling out gold through analysis, visualizations, and machine learning is incredibly satisfying.
+I enjoy taking dirty data and extracting gold through machine learning, analysis, and visualizations.
 
 I usually use Python, but I also have a working knowledge of R, Java, and SQL.
 
