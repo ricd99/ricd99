@@ -1,8 +1,8 @@
 ## Hello! I'm Ryan.
 
-I study computer science and data science at UBC. 
+I study computer science at UBC. 
 
-I enjoy taking dirty data and extracting gold through machine learning, analysis, and visualizations.
+I enjoy designing sustainable, scalable systems. More specifically, I've been doing a lot of data engineering and machine learning work recently!
 
 I usually use Python, but I also have a working knowledge of R, Java, and SQL.
 
