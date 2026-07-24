@@ -13,7 +13,7 @@ My GitHub profile is constantly changing! Here is the current list of repositori
   
 When I'm not coding, I'm:
 - learning to play a song I've recently been listening to on piano
-- eating good asian food (jbbq, kbbq, sichuan, taiwanese...)
+- eating good asian food (jbbq, kbbq, taiwanese, sichuan...)
 - watching the Canucks (times have been better)
 
 <!--
