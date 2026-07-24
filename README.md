@@ -4,7 +4,7 @@ I study computer science at UBC.
 
 I enjoy designing sustainable, scalable systems. More specifically, I've been doing a lot of data engineering and machine learning work recently!
 
-I frequently use Python and SQL, and I also have a working knowledge of R and Java.
+I frequently use Python and SQL, and I also have a working knowledge of JavaScript, Java, and R.
 
 My GitHub profile is constantly changing! Here is the current list of repositories I'm proud of
 - I implemented seven data processing stages in UBC Solar's new real-time data pipeline: [Sunbeam](https://github.com/UBC-Solar/sunbeam)
