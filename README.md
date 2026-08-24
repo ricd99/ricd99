@@ -4,12 +4,13 @@ I study computer science at UBC.
 
 I enjoy designing sustainable, scalable systems. More specifically, I've been doing a lot of data engineering and machine learning work recently!
 
-I frequently use Python and SQL, and I also have a working knowledge of JavaScript, Java, and R.
+Python is what I usually do my work with, and I also have a working knowledge of SQL, JavaScript, Java, and R.
 
 My GitHub profile is constantly changing! Here is the current list of repositories I'm proud of
 - I implemented seven data processing stages in UBC Solar's new real-time data pipeline: [Sunbeam](https://github.com/UBC-Solar/sunbeam)
-- I analyzed data from UBC Solar's coast-down tests and produced a comprehensive report with visualizations, a correlation matrix, and a drag-area coefficient: [Coast-down test analysis](https://github.com/UBC-Solar/data_analysis/tree/main/v4/drag_area_coefficient)
-- I created a dataset and developed and deployed a model that predicts disease outbreak areas here: [Regional Outbreak Predictor](https://github.com/dave22r/RegionalOutbreakPredictor)
+- I'm currently developing an Electron + React data dashboard for real-time use at Solar's competitions [Sunglasses](https://github.com/UBC-Solar/solar-di-v2)
+- I analyzed data from Solar's coast-down tests and produced a comprehensive report with visualizations, a correlation matrix, and a drag-area coefficient: [Coast-down test analysis](https://github.com/UBC-Solar/data_analysis/tree/main/v4/drag_area_coefficient)
+
   
 When I'm not coding, I'm:
 - learning to play a song I've recently been listening to on piano
