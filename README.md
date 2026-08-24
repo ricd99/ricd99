@@ -8,7 +8,7 @@ Python is what I usually do my work with, and I also have a working knowledge of
 
 My GitHub profile is constantly changing! Here is the current list of repositories I'm proud of
 - I implemented seven data processing stages in UBC Solar's new real-time data pipeline: [Sunbeam](https://github.com/UBC-Solar/sunbeam)
-- I'm currently developing an Electron + React data dashboard for real-time use at Solar's competitions [Sunglasses](https://github.com/UBC-Solar/solar-di-v2)
+- I'm currently developing an Electron + React data dashboard for real-time telemtry at Solar's competitions [Sunglasses](https://github.com/UBC-Solar/solar-di-v2)
 - I analyzed data from Solar's coast-down tests and produced a comprehensive report with visualizations, a correlation matrix, and a drag-area coefficient: [Coast-down test analysis](https://github.com/UBC-Solar/data_analysis/tree/main/v4/drag_area_coefficient)
 
   
